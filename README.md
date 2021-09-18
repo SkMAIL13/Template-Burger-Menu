@@ -1,9 +1,9 @@
 # Template-Burger-Menu
 ______________________________________________________
 ## Technologies :
-- html![html-logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
-- css![css-logo](https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png)
-- js![js-logo](https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png)
+- html
+- css
+- js!
 ______________________________________________________
 ## Information
 Burger menu with adaptive, you can [download](https://github.com/SkMAIL13/Template-Burger-Menu) and save your time
