@@ -10,6 +10,6 @@ Burger menu with adaptive, you can [download](https://github.com/SkMAIL13/Templa
 Header if fixed, burger starts at resolution less, than 767px. 
 ______________________________________________________
 ### Screenshot
-![Without burger](https://ibb.co/kHCVjt0)
-![With burger](https://ibb.co/FxtxQm9)
-![Burger-menu](https://ibb.co/c1Mb9s8)
+![Without burger](https://i.ibb.co/YRs4mx8/1.png)
+![With burger](https://i.ibb.co/0D3D0mk/2.png)
+![Burger-menu](https://i.ibb.co/56tY3Jj/3.png)
